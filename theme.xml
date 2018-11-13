@@ -16,19 +16,19 @@
 		</image>
 
 		<text name="logoText">
-			<fontPath>./art/Cabin-Bold.ttf</fontPath>
-			<color>8b0000</color>
+			<fontPath>./art/moon_get-Heavy.ttf</fontPath>
+			<color>FFFFFFFF</color>
 			<forceUppercase>true</forceUppercase>
 		</text>
 	</view>
 
-	<view name="basic, detailed, video">
+	<view name="basic, detailed, video, grid">
 		<text name="logoText">
 			<pos>0.01 0.02</pos>
 			<size>0.460 0.126</size>
 			<fontSize>0.12</fontSize>
-			<fontPath>./art/Cabin-Bold.ttf</fontPath>
-			<color>8b0000</color>
+			<fontPath>./art/moon_get-Heavy.ttf</fontPath>
+			<color>FFFFFFFF</color>
 			<forceUppercase>true</forceUppercase>
 		</text>
 		<image name="logo">
@@ -43,7 +43,7 @@
 			<pos>0.874 0.074</pos>
 			<maxSize>0.460 0.126</maxSize>
 			<origin>0.5 0.5</origin>
-			<color>bbbbbb</color>
+			<color>FFFFFFFF</color>
 		</image>
 	</view>
 </theme>
