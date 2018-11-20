@@ -29,12 +29,12 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<helpsystem name="help">
-			<textColor>FF9c27b0</textColor>
-			<iconColor>FF9c27b0</iconColor>
+			<textColor>FFFFFF</textColor>
+			<iconColor>FFFFFF</iconColor>
 		</helpsystem>
 
 		<image name="ControllerOverlay" extra="true">
-			<color>FFFFFFFF</color>
+			<color>FFFFFF</color>
 		</image>
 
 	</view>
@@ -50,8 +50,8 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>FF9c27b0</selectorColor>
-			<selectedColor>FFFFFFFF</selectedColor>
+			<selectorColor>9c27b0</selectorColor>
+			<selectedColor>FFFFFF</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/moon_get-Heavy.ttf</fontPath>
@@ -122,7 +122,7 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<datetime name="md_lastplayed, md_releasedate">
-			<color>FFFFFFFF</color>
+			<color>FFFFFF</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/moon_get-Heavy.ttf</fontPath>
 			<fontSize>0.023</fontSize>
